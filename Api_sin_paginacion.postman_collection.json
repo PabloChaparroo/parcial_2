@@ -441,6 +441,22 @@
 						"header": []
 					},
 					"response": []
+				},
+				{
+					"name": "GET ALL PAGED",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "SEARCH PAGED",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
 				}
 			]
 		}

@@ -5,12 +5,15 @@ import com.example.demo.entities.Autor;
 import com.example.demo.repositories.AutorRepository;
 import com.example.demo.repositories.BaseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
 public class AutorServiceImpl extends BaseServiceImpl<Autor,Long> implements AutorService{
+
 
     @Autowired
     private AutorRepository autorRepository;
