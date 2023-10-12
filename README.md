@@ -30,6 +30,6 @@ Ejecuta gradle build desde la terminal para crear el JAR correspondiente en la c
 5. Utiliza el archivo Dockerfile proporcionado en GitHub y actualiza el nombre de tu JAR.
 
 # Deploy 🌐:
-https://pueba-con-render.onrender.com
+https://parcialbackendrender.onrender.com
 ## Fecha de entrega: ✔️ 
 Miercoles 11 de Octubre - hora 23:00 hs
